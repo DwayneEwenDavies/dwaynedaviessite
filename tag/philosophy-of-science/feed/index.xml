@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Philosophy of Science &#8211; Dwayne Davies</title>
+	<atom:link href="https://dwaynedavies.com/tag/philosophy-of-science/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dwaynedavies.com</link>
+	<description>Rational Nonfiction Author</description>
+	<lastBuildDate>Sun, 14 May 2023 19:08:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://dwaynedavies.com/wp-content/uploads/2022/08/cropped-Ashna-Dwaynes-Wedding-23-crop-1-32x32.jpg</url>
+	<title>Philosophy of Science &#8211; Dwayne Davies</title>
+	<link>https://dwaynedavies.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>An Interview on Physics with Juanma</title>
+		<link>https://dwaynedavies.com/an-interview-on-physics-with-juanma/</link>
+					<comments>https://dwaynedavies.com/an-interview-on-physics-with-juanma/#respond</comments>
+		
+		<dc:creator><![CDATA[Dwayne Davies]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 22:37:47 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Metaphysics]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Boltzmann]]></category>
+		<category><![CDATA[Cauchy]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[Juanma]]></category>
+		<category><![CDATA[mathematics]]></category>
+		<category><![CDATA[Philosophy of Science]]></category>
+		<guid isPermaLink="false">http://localhost/rational/?p=647</guid>
+
+					<description><![CDATA[Today we interview the Spanish physicist Juanma on physics, the role of philosophy in physics and what can be done to improve the state of modern physics.]]></description>
+										<content:encoded><![CDATA[
+<p>This is a republishing of the Metaphysics of Physics podcast interview with the Spanish physicist Juanma. We talk about physics, the role of philosophy in physics and what can be done to improve the state of modern physics. You can find more of our interviews <a href="http://localhost/rational/interviews/" data-type="page" data-id="686" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>For those unaware, the Metaphysics of Physics was the previous incarnation of this site and for a time in included a podcast.</p>
+
+
+
+<p>You can read the transcript below or use the audio player below to listen to the interview. Or do both if you prefer!\</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://d1b27fxioefwtw.cloudfront.net/MOP-12018-12-12-interview-with-physicist-juanma.mp3"></audio></figure>
+
+
+
+<p> <a href="https://d1b27fxioefwtw.cloudfront.net/MOP-12018-12-12-interview-with-physicist-juanma.mp3" data-type="URL" data-id="https://d1b27fxioefwtw.cloudfront.net/MOP-12018-12-12-interview-with-physicist-juanma.mp3" target="_blank" rel="noreferrer noopener">Click here</a> to download the episode.</p>
+
+
+<h2 class="wp-block-heading" id="htoc-introduction">Introduction</h2>
+
+
+<p>[Please note that this may not exactly match the audio. However, there should be no significant differences.&nbsp; Also, note that the audio may of poorer quality than previous episodes, so you might want to keep this in mind.]</p>
+
+
+
+<p>Hi everyone! This is episode nine of the Metaphysics of Physics podcast.</p>
+
+
+
+<p>I am Ashna, and I your host and guide through the hallowed halls of the philosophy of science. Thanks for tuning in!</p>
+
+
+
+<p>With this show, we are fighting for a more rational world, mostly by looking through the lens of the philosophy of science. &nbsp;We raise awareness of issues within the philosophy of science and present alternative and rational approaches.</p>
+
+
+
+<p>You can find all the episodes, transcripts and subscription options on the website at rationalmetaphysician.com.</p>
+
+
+
+<p>Today we have an interview with Juanma, physics and mathematics researcher, Objectivist and a fellow student of the philosophy of physics!</p>
+
+
+
+<p>Dwayne originally performed this interview. But, for various reasons we won’t&nbsp;go into here, his segments were rerecorded by myself.</p>
+
+
+
+<p>The audio may be of lower quality than normal. This is due to the fact that the interview was performed over Skype and the connection was of fairly low quality.</p>
+
+
+
+<p>For the most part, the audio should be of acceptable quality, but if parts are less clear there is a transcript which may help to clarify parts of the audio which might be difficult to make out.</p>
+
+
+
+<p>Note that the transcript includes the answers Juanma prepared in advance and does not include extra commentary improvised during the interview.&nbsp; This extra content is nice, but it is not crucial. You should be able to get the gist of the answers provided to the questions from the transcript.</p>
+
+
+
+<p>But, without further ado, let us start the interview.</p>
+
+
+<h2 class="wp-block-heading" id="interview">Interview</h2>
+
+
+<p><strong>Juanma, please introduce yourself to our audience.</strong><br><strong><br></strong>I am Juanma, my name is Jaun Manuel.&nbsp; I am a Spanish physicist and I majored in theoretical physics.&nbsp; And then I spent a year doing research in the foundation of quantum mechanics.</p>
+
+
+
+<p>Now I am living in London doing an MSc course in quite a different thing, which is the physics of complex systems.&nbsp; And I am also interested in philosophy and quantum mechanics interpretations.&nbsp; Which has been my motive even since I got into the science world.</p>
+
+
+
+<p><strong>1) What did you study and why?</strong><br><strong><br></strong>In Madrid, I could have chosen mathematics or physics. In the end, I decided to major in physics.</p>
+
+
+
+<p>I decided this quite early during high school because the thing that most resonates with me is discovering and understanding natural phenomena.</p>
+
+
+
+<p>I mean, I love mathematics, but I felt it was too far from the real world.&nbsp; So, in the end, I wanted something a little bit more hands-on, even if I have always been more inclined to the more fundamental and theoretical side.</p>
+
+
+
+<p><strong>2) What are the right reasons to pursue an academic career in physics or other sciences? What will enable you to make it?</strong><br><strong><br></strong>Well, first of all, being quite the vocational career, so it takes a lot of dedication and interest. This is not a job that you can forget about once you get home, for example.</p>
+
+
+
+<p>Many scientists spend many more hours at work than they would normally have to, and some keep working even at home, even at night.</p>
+
+
+
+<p>My supervisor, last year, was hoping for the family to go to sleep so he could keep doing research, after past, I don’t know, midnight.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img decoding="async" width="320" height="196" src="https://dwaynedavies.com/wp-content/uploads/2023/05/cat_naps.jpg" alt="A kitty and some math papers." class="wp-image-26397" srcset="https://dwaynedavies.com/wp-content/uploads/2023/05/cat_naps.jpg 320w, https://dwaynedavies.com/wp-content/uploads/2023/05/cat_naps-300x184.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /><figcaption class="wp-element-caption">If you want to go into the sciences, learn to catnap so you can better handle those long hours.</figcaption></figure></div>
+
+
+<p>It takes so much dedication: it must be your passion, your job&nbsp;and your hobby.&nbsp; Which is quite of a thing to request for an interest in life.</p>
+
+
+
+<p>Yeah, it just becomes your life.&nbsp; Everyone I have known who was taking a Ph.D. or just researching, have just turned science into their life.</p>
+
+
+
+<p>Many jobs in this world, you can just forget about them once you are finished.&nbsp; But, science, particularly theoretical and fundamental sciences, you can to go bed and then come up with something, wake up (or stand up), take a note and then go back to bed.</p>
+
+
+
+<p><strong>3) Alright, what are the things you did not like in academia?</strong><br><strong><br></strong>In the end, even if it seems to be quite a free enterprise, to decide what you are going to research, you actually depend on other people’s approval just to thrive.</p>
+
+
+
+<p>You can’t just do some research without telling your university, for example. Your university must approve of your research interests; your peers must accept your papers for publication.</p>
+
+
+
+<p>This sometimes turns into compliance with the status quo, you know. And so some arbitrary ideas grow over time simply because it’s not easy to get a voice if you disagree with the mainstream. Even if you present loads of compelling evidence, bring lots of information, sometimes the world of academia is quite reluctant to accept it.</p>
+
+
+
+<p>This, in turn, compromises the quality of the science you produce. That is an inherent thing in academia, it has been ever since universities were built and began being a thing in the scientific literature world.&nbsp; So, I don’t think there is much we can do about that.</p>
+
+
+
+<p><strong>Ashna:</strong> What is&nbsp;it they say? Publish or perish? Well, they want you to publish stuff they think will bring in the funding. Which is fair, they obviously need the funding. But, less mainstream ideas might not be perceived as highly fundable ideas.</p>
+
+
+
+<p><strong>4) What are the things you liked being in academia?</strong><br><strong><br></strong>Well, you rarely meet people that aren’t passionate about their job, so everyone is pretty much up for discussion, time permitting, of course.</p>
+
+
+
+<p>You can just go downstairs to the cafeteria and find some coffee and some interesting talk. For half an hour, one hour, about your research interests.&nbsp; So, you can share your passion with people.</p>
+
+
+
+<p>You don’t usually find this in some other jobs. People are usually willing to forget about their jobs once they are done.&nbsp; But, in science, since it is such a vocational thing, you are always finding someone, some peers. I love that.</p>
+
+
+
+<p>Also, when you don’t push reviewers’ tolerance too much, you enjoy a lot of creative freedom and it rarely becomes monotonous.&nbsp; Because you can always job back and forth between different research topics.</p>
+
+
+
+<p><strong>Ashna</strong>: Yeah, even the most irrational of them, say, Max Tegmark, are very passionate. I dont like what he has to say, but he is passionate.</p>
+
+
+
+<p><strong>5) Do you wish you had studied something different and if so, why?</strong><br><strong><br></strong>Thinking back, had I known how academic research would turn out, I would probably have gone for something I can still be creative at, but something that doesn’t demand some gentle form of compliance.</p>
+
+
+
+<p>There is also this Atlas Shrugged-related dilemma. I don’t know if your audience is familiar with Atlas Shrugged plot, I won’t disclose that much.&nbsp; But, this dilemma is basically that that scientists get scorned and underestimated, usually poorly paid and discredited. While for example, pseudoscience gets more and more popular because people nowadays prefer being told what they want to believe rather than the blatant truth.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img decoding="async" width="400" height="266" src="https://dwaynedavies.com/wp-content/uploads/2023/05/engineering.jpg" alt="An engineer at work." class="wp-image-26399" srcset="https://dwaynedavies.com/wp-content/uploads/2023/05/engineering.jpg 400w, https://dwaynedavies.com/wp-content/uploads/2023/05/engineering-300x200.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /><figcaption class="wp-element-caption">Engineering is  a more practical, hands on job than the theoretical sciences. You also are more likely to be paid for your overtime.</figcaption></figure></div>
+
+
+<p>So that plays against science and for say, religious or pseudoscientific views.</p>
+
+
+
+<p>I think it’s healthier for one’s emotional wellbeing to pursue a career where you get what you earn. I sometimes think that becoming a researcher somehow resembles becoming a nun…</p>
+
+
+
+<p>It’s implicitly written in the terms of your job that you will dedicate as much as it takes of yourself to science and that what you get from becomes pretty much irrelevant. You have decided to put your whole life, all your time, all that it takes, into science.&nbsp; And you are pretty much signing up for a contract where all your time, all your spare time, isn’t that valuable.</p>
+
+
+
+<p>If you are about to publish some paper or if you are collaborating with someone, maybe you have to put in 18 hours. Well, that is a bit of an exaggeration, you have to put in a lot of hours into the day, perhaps sometimes skipping meals or coming home at past 10. It&#8217;s just a scientist’s life. Nobody will see that, it is a strange thing.</p>
+
+
+
+<p>If you get some other job, you might get paid for extra hours. In science, it is implicitly accepted that you will have to do some extra hours at some point. But you just won’t get paid for that. Simply because you are expected to be so committed to science that you are not expected to expect something else in return.</p>
+
+
+
+<p>I would probably have gone for something which is more efficient in these terms. Where I can really get what I am working for and earn a decent amount to simply enjoy other aspects of life and not just let science absorb all of my time, all of my dedication.</p>
+
+
+
+<p>I was about to move to naval engineering, which is something where I can see the results of my work in my hands, where I can touch the results of my work. Which I don’t think is necessarily worse than doing science.&nbsp; But I also like to see where all of my work has got to. So, looking back, I might have chosen something of the sort.</p>
+
+
+
+<p><strong>Ashna:</strong> Imagine how much better it would be if people lived in a world where we had greater respect for good science and more appreciation for how hard scientists work. I think they would be better off and might make more progress.</p>
+
+
+
+<p><br><strong>6) What do you think about string theory?</strong><br><strong><br></strong>Ah well, to paraphrase The Fountainhead, “I don’t think of string theory”. No, really, I think the methodology adopted by theoretical physicists in the last century inevitably leads to arbitrariness and, what’s even worse, a complete disregard for understanding natural phenomena.</p>
+
+
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dwaynedavies.com/an-interview-on-physics-with-juanma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://d1b27fxioefwtw.cloudfront.net/MOP-12018-12-12-interview-with-physicist-juanma.mp3" length="30773782" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Interview with Bill Gaede</title>
+		<link>https://dwaynedavies.com/interview-with-bill-gaede/</link>
+					<comments>https://dwaynedavies.com/interview-with-bill-gaede/#respond</comments>
+		
+		<dc:creator><![CDATA[Dwayne Davies]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 22:33:02 +0000</pubDate>
+				<category><![CDATA[Epistemology]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Metaphysics]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Bill Gaede]]></category>
+		<category><![CDATA[Gaede]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[mathematics]]></category>
+		<category><![CDATA[Philosophy of Physics]]></category>
+		<category><![CDATA[Philosophy of Science]]></category>
+		<guid isPermaLink="false">http://localhost/rational/?p=637</guid>
+
+					<description><![CDATA[Today we have an interview with the physicist Bill Gaede, originator of the Rope Hypothesis.]]></description>
+										<content:encoded><![CDATA[
+<p>This is a republishing of the Metaphysics of Physics podcast interview with physicist Bill Gaede, originator of the Rope Hypothesis. We talk about the Rope Hypothesis and some of the problems he has with modern physics.</p>
+
+
+
+<p>For those unaware, the Metaphysics of Physics was the previous incarnation of this site and for a time in included a podcast.</p>
+
+
+
+<p>You can read the transcript or use the audio player below to listen to the interview. Or do both if you prefer!</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://d1b27fxioefwtw.cloudfront.net/MOP-2019-06-27-interview-with-bill-gaede.mp3"></audio></figure>
+
+
+
+<p><a href="https://d1b27fxioefwtw.cloudfront.net/MOP-2019-06-27-interview-with-bill-gaede.mp3" data-type="URL" data-id="https://d1b27fxioefwtw.cloudfront.net/MOP-2019-06-27-interview-with-bill-gaede.mp3" target="_blank" rel="noreferrer noopener">Click here</a> to download the episode.</p>
+
+
+<h2 class="wp-block-heading" id="introduction">Introduction</h2>
+
+
+<p>Today we have an interview with the physicist Bill Gaede, originator of the Rope Hypothesis. We have not presented the transcript of this in web page form. Instead, you can listen to the audio or download the PDF transcript.</p>
+
+
+
+<p>You can find out more about Bill Gaede&#8217;s idea on his <a href="https://www.youtube.com/channel/UC5kqQKUWqsNum3WtLhHN5yw" target="_blank" rel="noreferrer noopener">YouTube page</a>. Check out his <a href="https://www.quora.com/profile/Bill-Gaede" target="_blank" rel="noreferrer noopener">Quora profile</a> to see him answering some physics questions.</p>
+
+
+
+<p>You may have problems with the audio if you hit the play button above after jumping part of the way into the audio. We are not sure what this issue is or how to fix it. You can download the episode or simply play it from the beginning.</p>
+
+
+
+<p>Gaede and I discuss the problems in modern physics, some of the many ways in which physics is irrational, the improper conflation of mathematics with physics, his rope model and more.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img decoding="async" width="500" height="517" src="https://dwaynedavies.com/wp-content/uploads/2023/05/Gaede.jpg" alt="" class="wp-image-26482" srcset="https://dwaynedavies.com/wp-content/uploads/2023/05/Gaede.jpg 500w, https://dwaynedavies.com/wp-content/uploads/2023/05/Gaede-290x300.jpg 290w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption class="wp-element-caption">Bill Gaede demonstrating his rope model.</figcaption></figure></div>
+
+
+<p>The problems he mentions are largely centered around the idea that we do not have physicists anymore, we have mathematicians. People that try to describe but not explain how this universe works. But, physics is meant to be about explaining how the universe works!</p>
+
+
+
+<p>This is where the rope model comes in. It offers an explanation of light, electromagnetism, gravity and more. Gaede discusses this in some depth in his book &#8220;Why God Does Not Exist&#8221;.</p>
+
+
+<h2 class="wp-block-heading" id="episode-transcript">Episode Transcript</h2>
+
+
+<p>Please note that the transcript has been edited for grammatical purposes. The contents accurately represent the material, however changes have been made to make it easier to read. So,&nbsp; it will not exactly match the audio.</p>
+
+
+
+<p>However, there may be mistakes in the transcript. Any mistakes in transcription represent our own errors or a transcription error we missed.</p>
+
+
+
+<p><a href="https://dwaynedavies.com/transcripts/Bill_Gaede_Interview_Transcript.pdf" data-type="URL" data-id="https://dwaynedavies.com/transcripts/Bill_Gaede_Interview_Transcript.pdf" target="_blank" rel="noreferrer noopener">Click here</a> to download the PDF transcript.</p>
+
+
+<h2 class="wp-block-heading" id="excerpt">Excerpt</h2>
+
+
+<p><strong>Dwayne: </strong>Okay, we&#8217;ll start with the first and most obvious question, what is physics? You have talked about the Golden Principle of physics. Tell us about that as well.<br><br><strong>Gaede:</strong> Yeah, well, the Golden Principle.<br><br>First, physics is not the study of this or the study of that. Anybody can study and not be able to explain anything in science, let alone physics. But science is not just the study of something. It&#8217;s explaining something, especially as regards to physics. You must explain physical mechanisms, causes. That&#8217;s what I think physics is about.<br><br>In order to explain causes, you need to have objects. And I think the bread and butter of physics is this word called object. And to me, it&#8217;s stunning that no one has figured this out in mathematical physics.<br><br>Since the days of Newton, at least, no one has figured out that you need an object to do physics. Once you cover that stuff, you got to define the word object. And no one has defined the word object in a scientific way.<br><br>Not a single physics textbook on planet Earth begins by saying: “This is an object and this is what we&#8217;re going to do with it”.<br><br>In other words, specifically defined keywords that you need for the foundations of physics. This is an object, this is distance, this is a location. This is what we mean by motion. These words have never been defined in a scientific way.<br><br>In fact, Newton said he didn&#8217;t know what motion was. And so, yes, I think physics is the study of causes and mechanism. It&#8217;s not about math, it&#8217;s not about measuring and it&#8217;s not about equations.<br><br>It&#8217;s about explaining a mechanism. You want to explain how a magnet works; you want to explain how gravity works.<br><br>In order to do that, you need objects and you need to define what an object is. So, in a nutshell, is my vision of physics.<br><br><strong>Dwayne:</strong> Okay, so how would you define an object?<br><br><strong>Gaede:</strong> Well, you know, if you look in the dictionary, you&#8217;ll find definitions of ordinary speech, not scientific definitions. In other words, not ones that you can use consistently, rationally.In order to use that word consistently, scientifically, rationally, you have to define it as that which has shape. That&#8217;s the only property all objects have, whether imaginary objects or real objects. All of them have the<br>same property, shape.<br><br>And what doesn&#8217;t have shape as known as a concept, essentially.<br><br><strong>Dwayne: </strong>Right, I agree. What is mathematics? And how does it relate to physical objects? For instance, how do numbers relate to physical objects?<br><br><strong>Gaede:</strong> I love the question. No, I&#8217;m saying mathematics has nothing to do with physics or with science. And people immediately say: “Why? No, you&#8217;re crazy. What do you mean, mathematics has nothing to do with science?”<br><br>We go back to the definitions and just follow them strictly. What is science about? What is physics about? Physics is about explaining phenomena, causes and mechanisms. We have no use for mathematics whatsoever.<br><br>So, in that sense, mathematics has absolutely nothing to do with physics or with science. If physics is about explaining causes and mechanisms<br><br>Obviously, if you define physics as measurement, equations, predictions, observation, proof evidence, well, then yeah, then you can bring mathematics in.<br><br>What&#8217;s happened is that the mathematicians have defined what science, what physics is, not the physicists. And a real genuine physicist defines physics a little differently than a mathematician. He views it as causes and mechanisms. For that, we have no use whatsoever for mathematics.<br><br>What does an equation do? Equations are just a description. And I&#8217;m not asking for a description. I&#8217;m asking for an explanation.<br><br>And for that, you need to define the words “explain” and “describe” and find out what the difference between those two words is. But a lot of people think they&#8217;re synonyms.<br><br><strong>Dwayne: </strong>Okay, so how would you describe these words and the difference between them?<br><br><strong>Gaede:</strong> Well, a description is a listing of properties. Say that I want to describe a chair. I say it&#8217;s got four legs, it&#8217;s brown, it&#8217;s big, it&#8217;s small. I use adjectives and I qualify it. All I&#8217;m doing is describing. I haven&#8217;t explained anything so far.<br><br>An explanation is revealing causes and mechanisms for phenomena. And saying that there was something which happened. You are going to say how it happened.<br><br>Meaning, not a description like “It fell down and it fell at 9.8 meters per second squared”.<br><br>No, that&#8217;s not an explanation. You want to know what caused it to fall down and not up, for example. Or how does one magnet attract another?<br><br>I can&#8217;t just say, well, it attracts at such and such speed at such and such distance. That&#8217;s not an explanation. That&#8217;s just the description.<br><br>What I want is an experience. I want to know the mechanism. If I want to explain to you the mechanism, then I can use the following example, because I guess everybody can relate to it.<br><br>You have a pulley and you have a bucket. You have a rope tied to the bucket and the rope goes around the pulley, the little wheel. And you say well, how did he put the bucket up there? It was full of water, and how do you put the butter bucket up there?<br><br>I show the movie and I don&#8217;t even have to explain anything. I can just show the movie. All the objects are all visible. And you see this guy pulls on the rope, the rope goes around the pulley, the wheel turns and the bucket goes up.<br><br>So, everybody looks at that and they say, I understand how the bucket ended up there, he just pulled down on the rope.<br><br>And that is a mechanism everybody can understand. Because everything is visible in front of your very own eyes. And so, all you have to do is watch the movie and say, “I understand the mechanism”.<br><br>But we don&#8217;t do that with magnets. We don&#8217;t do that with gravity, we don&#8217;t do that with light or with atomic behavior. We don&#8217;t do that with electricity.<br><br>What we say there oh, let me describe it for you. And in the case of gravity, they say mass. And mass is a concept, it is a mathematical concept. I can&#8217;t say mass did this or mass did that. It is like saying the weight of an elephant did this. The weight of an elephant squashed the ant.<br><br>No, it was the foot of the elephant that squashed the ant, not the weight. Weight has no power to do anything. Weight is a mathematical concept.<br><br>Likewise, mass is a mathematical concept. And you can&#8217;t say energy did this or that either, because that&#8217;s another mathematical concept.<br><br>The problem we have today is that we use these words like field, force and time. But nobody has defined these terms, which are obvious concepts.<br><br>And they use them as if they were physical objects. They tell you that time has warped. And they tell you that they sent energy, that they transferred energy. They say that they moved the mass. That the force<br>was strong, it was a very strong force. And so forth.<br><br>And so, we&#8217;re using all these concepts as physical objects. We have gotten so used to it because they&#8217;re all mathematical concepts. And its mathematicians who have defined science, not physicists.<br><br>In fact, if you go back to square one, we go back to Aristotle, he&#8217;s the guy who wrote the first book of physics that we have today. The first extant book of physics. That&#8217;s his eponymous book known as “Physics”.</p>
+
+
+
+<p>Aristotle says, look, mathematicians do angles, numbers, that&#8217;s mathematicians. Physicists, they do causes.<br><br>And a lot of people criticize this and they say “Well, Bill, you want to go back to the days of Aristotle”.<br><br>But you must understand the context. The context is not that we want to go back to Aristotle in the sense that maybe his scientific method was to be desired. The issue is that he had the right idea, physics explains causes. That&#8217;s what we forgot.<br><br>There&#8217;s nothing wrong with people doing experiments. There&#8217;s nothing wrong with people doing math if they want. But when they come to the conference, they have to explain the mechanism. And that&#8217;s what they forgot about.<br><br>They do a lot of math, they have a lot of descriptions, equations, numbers., they talk about infinity. They bring in all these fancy words like energy and field. And what we&#8217;re missing is the explanation of the mechanism.We still don&#8217;t know how one magnet attracts another. Or how gravity works. And this is the issue.<br><br>That&#8217;s why I go back to Aristotle only in the context of that business about causes and mechanisms.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dwaynedavies.com/interview-with-bill-gaede/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://d1b27fxioefwtw.cloudfront.net/MOP-2019-06-27-interview-with-bill-gaede.mp3" length="41327980" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Interview on Induction &#038; Physics with James Ellias</title>
+		<link>https://dwaynedavies.com/interview-with-ellias-physics-induction/</link>
+					<comments>https://dwaynedavies.com/interview-with-ellias-physics-induction/#respond</comments>
+		
+		<dc:creator><![CDATA[Dwayne Davies]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 22:31:46 +0000</pubDate>
+				<category><![CDATA[Epistemology]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Metaphysics]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Ellias]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[philosophy of phsyics]]></category>
+		<category><![CDATA[Philosophy of Science]]></category>
+		<guid isPermaLink="false">http://localhost/rational/?p=635</guid>
+
+					<description><![CDATA[This is an interview with James Ellias, creator of the excellent "An Inductive Summary of Physics" series covering the role of induction in the history of physics and more.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">This is an interview with James Ellias, creator of the excellent &#8220;<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=bQ53xy9gRLw&amp;list=PL7mrYYFgBAuEzwEQn5auLnSg4DzRXlyoB" data-type="URL" data-id="https://www.youtube.com/watch?v=bQ53xy9gRLw&amp;list=PL7mrYYFgBAuEzwEQn5auLnSg4DzRXlyoB" target="_blank">An Inductive Summary of Physics</a>&#8221; series covering the role of induction in the history of physics and other important philosophical topics.</p>
+
+
+
+<p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">We discuss the role of induction in physics and many other issues in the philosophy of physics. As well as taking a few questions from our listeners.<br><br>If you are interested in induction, check out our interview on <a href="https://dwaynedavies.com/induction-in-computer-science-livestream/" data-type="URL" data-id="https://dwaynedavies.com/induction-in-computer-science-livestream/" target="_blank" rel="noreferrer noopener">induction and computer science here</a>.</p>
+
+
+
+<p>You should also read the book, <a href="https://www.amazon.com/Logical-Leap-Induction-Physics/dp/0451230051" target="_blank" data-type="URL" data-id="https://www.amazon.com/Logical-Leap-Induction-Physics/dp/0451230051" rel="noreferrer noopener">The Logical Leap</a> by Leonard Peikoff and David Harriman.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://dwaynedavies.com/wp-content/uploads/2023/05/The-Logical-Leap.jpg" alt="" class="wp-image-26474" width="309" height="464" srcset="https://dwaynedavies.com/wp-content/uploads/2023/05/The-Logical-Leap.jpg 412w, https://dwaynedavies.com/wp-content/uploads/2023/05/The-Logical-Leap-200x300.jpg 200w" sizes="(max-width: 309px) 100vw, 309px" /><figcaption class="wp-element-caption">The Logical Leap: Induction in Physics</figcaption></figure></div>
+
+<h2 class="wp-block-heading" id="htoc-questions-asked">Questions Asked</h2>
+
+
+<p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">The questions asked in the interview include (please note that the questions are not necessarily listed in the order asked):</p>
+
+
+
+<ul type="video" class="wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<li>Tell us more about the role of induction in physics.<br></li>
+
+
+
+<li>What would you add to or change about the theory of induction presented in the Logical Leap? Or what do you have to say about induction in general?<br></li>
+
+
+
+<li>Tell us about your video “There are two hierarchies of knowledge”.<br></li>
+
+
+
+<li>Alright, tell us about the role of mathematics in physics<br></li>
+
+
+
+<li>Tell us about the “Brief History of Physics” series on your YouTube channel.<br></li>
+
+
+
+<li>So, tell us the “Inductive Summary of Physics” project.<br></li>
+
+
+
+<li>Who are some of your favorite physicists?&nbsp;<br></li>
+
+
+
+<li>Tell us about some of your favorite sources of inspiration for your work? Which authors/speakers do you draw the most from/get the most inspiration from?<br></li>
+
+
+
+<li>Would you care to tell us any of your ideas about what really be going on with some of the lesser well known parts of modern physics? I am talking about things like quantum mechanics, what fields really are, what relativity is really describing and so on.<br></li>
+
+
+
+<li>Tell us about some of your experiences in academia? Is going into academia something you would recommend for those interested in physics? Why or why not?<br></li>
+
+
+
+<li>What do you think is wrong with modern physics? What are some of the root causes?<br></li>
+
+
+
+<li>Which books/sources would you recommend to learn more about physics?<br></li>
+
+
+
+<li>In what ways is philosophy important to physics?&nbsp;<br></li>
+
+
+
+<li>Why do you think so many physicists dismiss philosophy?<br></li>
+
+
+
+<li>Tell us about some of the most ingenious experiments performed in physics.<br></li>
+
+
+
+<li>Talk about the difference between the historical approach and your inductive approach.&nbsp;<br></li>
+
+
+
+<li>What do you think about Lewis Littles’ Theory of Elementary Waves?</li>
+</ul>
+
+
+
+<p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">To find out the answers to these questions, you should tune into the interview&#8230; <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Livestream with James Ellias" width="900" height="506" src="https://www.youtube.com/embed/oQbapEEMHDo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">You can find his <a rel="noreferrer noopener" href="https://www.youtube.com/channel/UC6ERVovZaB0eT0xkwKHESlA" target="_blank">YouTube channel here</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dwaynedavies.com/interview-with-ellias-physics-induction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Interview with Narendra Kumar on Science Education</title>
+		<link>https://dwaynedavies.com/interview-on-science-education/</link>
+					<comments>https://dwaynedavies.com/interview-on-science-education/#respond</comments>
+		
+		<dc:creator><![CDATA[Dwayne Davies]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 01:00:00 +0000</pubDate>
+				<category><![CDATA[Epistemology]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Metaphysics]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[learnig]]></category>
+		<category><![CDATA[Philosophy of Science]]></category>
+		<category><![CDATA[science]]></category>
+		<guid isPermaLink="false">http://localhost/rational/?p=82</guid>
+
+					<description><![CDATA[This is the transcript of an interview with my friend Narendra Kumar. We discussed the difficulties of learning science, problems with concretization, the role of mathematics and more.]]></description>
+										<content:encoded><![CDATA[
+<p>This is the transcript of an interview with my friend Narendra Kumar on the issue of science education. We discussed many things, including the difficulties of learning physics, problems with concretization, the role of mathematics and its relationship with science, the beauty of the science and more.</p>
+
+
+<h2 class="wp-block-heading" id="introduction">Introduction</h2>
+
+
+<p>I answered some of the questions he prepared in advance and he offered several insightful clarifying questions and commentary. It was a very good interview and we covered a lot of ground in about seventy minute.</p>
+
+
+
+<p>This was supposed to be a livestream available on YouTube. However there were severe audio issues and much of the audio is unusable. However, I have created this transcript without losing anything significant from the original discussion.</p>
+
+
+
+<p>At a later date I will present an audio reading of this interview which is mostly my answers but with several of Narendra&#8217;s insightful comments. For now, you have this transcript.</p>
+
+
+
+<p>I trust that you will find this interesting and informative. The transcript is available below as a PDF, please <a href="http://localhost/rational/transcripts/MetaphysicsOfPhysicsInterviewWithNarendra.pdf" data-type="URL" data-id="http://localhost/rational/transcripts/MetaphysicsOfPhysicsInterviewWithNarendra.pdf" target="_blank" rel="noreferrer noopener">click here download it</a>.</p>
+
+
+
+<p>Please note that some of our interviews reference &#8220;Metaphysics of Physics&#8221;. This was the previous incarnation of the Rational Metaphysician.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img decoding="async" width="600" height="480" src="https://dwaynedavies.com/wp-content/uploads/2023/05/Eratosthenes.jpg" alt="Eratosthenes teaching." class="wp-image-26412" srcset="https://dwaynedavies.com/wp-content/uploads/2023/05/Eratosthenes.jpg 600w, https://dwaynedavies.com/wp-content/uploads/2023/05/Eratosthenes-300x240.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption"><a href="https://en.wikipedia.org/wiki/Eratosthenes" target="_blank" data-type="URL" data-id="https://en.wikipedia.org/wiki/Eratosthenes" rel="noreferrer noopener">Eratosthenes</a>, he did some good early science.</figcaption></figure></div>
+
+<h2 class="wp-block-heading" id="excerpt-of-the-interview-on-science-education">Excerpt of the Interview on Science Education</h2>
+
+
+<p><strong>Dwayne</strong>: Okay. Hi everyone, and welcome to another episode of the Metaphysics of Physics.<br><strong><br>Narendra:</strong> Hi.<br><br>Today I have my friend Narendra with us from India, via the magic of the internet. Say hi to our audience.<br><br><strong>Narendra:</strong> Hello everybody!<br><strong><br>Dwayne:</strong> He teaches English studies. And he likes to use holistic education methods. And he has a Bachelor’s degree in Civil Engineering and an MSc in Economics.<br><br>We are going to learn about some issues in science and science education. We&#8217;ll be focusing on physics, but a lot of other branches of science, particularly mathematics, will come up as well. Narendra has given me lots of good questions beforehand.<br><strong><br>Narendra:</strong> Yeah, they&#8217;ve already given. And so, thank you, Dwayne, I would like to say something.<br><br>I am happy that I&#8217;ve come on live with you. I&#8217;ve been watching your posts and the way you over-explain. I really love that. So, I thought we&#8217;ll connect, and thanks for agreeing to that.<br><br>And thanks also for the fantastic preparation you have done. Because I gave these questions much earlier, almost, I think two weeks back. And he wrote the answers down. So that&#8217;s very unique. People don&#8217;t do that.<br><br><strong>Dwayne: </strong>Well, I like to be prepared.<br><br><strong>Narendra: </strong>Yeah, I know, I know. I&#8217;d like to tell the audience that these questions have already been given. So, there&#8217;s no need for me to ask them. He will be telling the question.<br><br>And I will be adding things. If I think that there is anything if I feel a general audience needs it. If they need some clarification or if I need some clarification, I&#8217;ll butt in. But I would like Dwayne to talk.Dwayne: Yes.<br><br><strong>Narendra:</strong> Okay, then we go ahead.<br><br><strong>Dwayne: </strong>Okay, let&#8217;s get started with the first question. And this question is whether it is difficult to learn physics. And here&#8217;s what I have to say on that.<br><br>Now, of course, physics is a very fundamental subject. Some people might have the idea that this should make it easy, but I do not think that should be the case. Fundamental is not the same as easy.<br><br>The subject matter of physics is essentially all of physical reality. You can take the view that that is looking out at all of physical reality and seeing how all of this works. Basically, everything that is physical is something to do with physics.<br><br>But in practice, this is not actually easy. Once you start doing physics, you will very quickly find that you need math, lots of math, to do much of anything.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img decoding="async" width="450" height="338" src="https://dwaynedavies.com/wp-content/uploads/2023/05/hard-math.jpg" alt="Complicated math." class="wp-image-26413" srcset="https://dwaynedavies.com/wp-content/uploads/2023/05/hard-math.jpg 450w, https://dwaynedavies.com/wp-content/uploads/2023/05/hard-math-300x225.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">This is not where physics stops. It where it should really get going &#8230;</figcaption></figure></div>
+
+
+<p><strong>Narendra:</strong> Yes.<br><br><strong>Dwayne:</strong> You need to be able to quantify the things like velocity, and acceleration and forces and how forces lead to motion and stuff. You need mathematics to identify, quantify, understand all these relationships. We will go into the role of math in a later question, and so we won&#8217;t go into that too<br>much now.<br><br><strong>Narendra: </strong>Yeah.<br><br><strong>Dwayne:</strong> But the math can get really complicated, really fast. And not everyone is good at math. Certainly not in my experience. It is a very abstract subject, and it&#8217;s very difficult for some, even if it is taught properly. And in my experience, it seldom is.<br><br>Add to that the fact that you&#8217;re dealing with some very abstract things like energy. We don&#8217;t know what energy is really and Feynman himself said we don&#8217;t know. And he was one of the greatest physicists of his time.<br><br><strong>Narendra:</strong> He did not know; you can imagine it was undefined.</p>
+
+
+
+<p><strong>Dwayne:</strong> Yeah, that was a perfectly valid point. So, in other words, energy is not easy to intuitively grasp. And then there&#8217;s light. We don&#8217;t know what light really is. They say it&#8217;s a particle and a wave. But, well, no.<br><br>Even trying to visualize an atom can be hard. Remember the show the Big Bang Theory? You have that picture of the electrons orbiting the nucleus like little moons.<br><br>This is an okay way of visualizing an atom. It is good enough for high school physics, maybe first-year college physics. But according to quantum physics, this is wrong. But how do we visualize it?<br><strong><br>Narendra:</strong> Exactly.<br><br><strong>Dwayne: </strong>We don&#8217;t know, quantum physics has not given us an answer. It doesn&#8217;t give us any answers.</p>
+
+
+
+<p>So, you could say that the subject matter of physics is non-trivial to understand. It can get quite abstract. But there is another problem.<br><br>Many of the problems of modern physics make this a lot harder than it should be. You see, there is a &#8220;shut up and calculate&#8221; approach that is widely taken.<br><br><strong>Narendra: </strong>Shut and calculate.<br><br><strong>Dwayne:</strong> Yeah.<br><br><strong>Narendra: </strong>Shut up and calculate. Yeah, that is funny. Shut up and calculate.<br><br>Dwayne: Yes, exactly. That is an exact quote, although I cannot remember who said it offhand.<br><br><strong>Narendra: </strong>Oh, my.</p>
+
+
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dwaynedavies.com/interview-on-science-education/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
