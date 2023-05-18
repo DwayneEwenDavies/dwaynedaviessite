@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>learnig &#8211; Dwayne Davies</title>
+	<atom:link href="/tag/learnig/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Rational Nonfiction Author</description>
+	<lastBuildDate>Sun, 14 May 2023 19:08:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2022/08/cropped-Ashna-Dwaynes-Wedding-23-crop-1-32x32.jpg</url>
+	<title>learnig &#8211; Dwayne Davies</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Interview with Narendra Kumar on Science Education</title>
+		<link>/interview-on-science-education/</link>
+					<comments>/interview-on-science-education/#respond</comments>
+		
+		<dc:creator><![CDATA[Dwayne Davies]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 01:00:00 +0000</pubDate>
+				<category><![CDATA[Epistemology]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Metaphysics]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[learnig]]></category>
+		<category><![CDATA[Philosophy of Science]]></category>
+		<category><![CDATA[science]]></category>
+		<guid isPermaLink="false">http://localhost/rational/?p=82</guid>
+
+					<description><![CDATA[This is the transcript of an interview with my friend Narendra Kumar. We discussed the difficulties of learning science, problems with concretization, the role of mathematics and more.]]></description>
+										<content:encoded><![CDATA[
+<p>This is the transcript of an interview with my friend Narendra Kumar on the issue of science education. We discussed many things, including the difficulties of learning physics, problems with concretization, the role of mathematics and its relationship with science, the beauty of the science and more.</p>
+
+
+
+<h2 class="wp-block-heading" id="introduction">Introduction</h2>
+
+
+
+<p>I answered some of the questions he prepared in advance and he offered several insightful clarifying questions and commentary. It was a very good interview and we covered a lot of ground in about seventy minute.</p>
+
+
+
+<p>This was supposed to be a livestream available on YouTube. However there were severe audio issues and much of the audio is unusable. However, I have created this transcript without losing anything significant from the original discussion.</p>
+
+
+
+<p>At a later date I will present an audio reading of this interview which is mostly my answers but with several of Narendra&#8217;s insightful comments. For now, you have this transcript.</p>
+
+
+
+<p>I trust that you will find this interesting and informative. The transcript is available below as a PDF, please <a href="http://localhost/rational/transcripts/MetaphysicsOfPhysicsInterviewWithNarendra.pdf" data-type="URL" data-id="http://localhost/rational/transcripts/MetaphysicsOfPhysicsInterviewWithNarendra.pdf" target="_blank" rel="noreferrer noopener">click here download it</a>.</p>
+
+
+
+<p>Please note that some of our interviews reference &#8220;Metaphysics of Physics&#8221;. This was the previous incarnation of the Rational Metaphysician.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img  decoding="async" width="600" height="480"  src="https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2023/05/Eratosthenes.jpg"  alt="Eratosthenes teaching." class="wp-image-26412" srcset="https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2023/05/Eratosthenes.jpg 600w, https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2023/05/Eratosthenes-300x240.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-element-caption"><a href="https://en.wikipedia.org/wiki/Eratosthenes" target="_blank" data-type="URL" data-id="https://en.wikipedia.org/wiki/Eratosthenes" rel="noreferrer noopener">Eratosthenes</a>, he did some good early science.</figcaption></figure></div>
+
+
+<h2 class="wp-block-heading" id="excerpt-of-the-interview-on-science-education">Excerpt of the Interview on Science Education</h2>
+
+
+
+<p><strong>Dwayne</strong>: Okay. Hi everyone, and welcome to another episode of the Metaphysics of Physics.<br><strong><br>Narendra:</strong> Hi.<br><br>Today I have my friend Narendra with us from India, via the magic of the internet. Say hi to our audience.<br><br><strong>Narendra:</strong> Hello everybody!<br><strong><br>Dwayne:</strong> He teaches English studies. And he likes to use holistic education methods. And he has a Bachelor’s degree in Civil Engineering and an MSc in Economics.<br><br>We are going to learn about some issues in science and science education. We&#8217;ll be focusing on physics, but a lot of other branches of science, particularly mathematics, will come up as well. Narendra has given me lots of good questions beforehand.<br><strong><br>Narendra:</strong> Yeah, they&#8217;ve already given. And so, thank you, Dwayne, I would like to say something.<br><br>I am happy that I&#8217;ve come on live with you. I&#8217;ve been watching your posts and the way you over-explain. I really love that. So, I thought we&#8217;ll connect, and thanks for agreeing to that.<br><br>And thanks also for the fantastic preparation you have done. Because I gave these questions much earlier, almost, I think two weeks back. And he wrote the answers down. So that&#8217;s very unique. People don&#8217;t do that.<br><br><strong>Dwayne: </strong>Well, I like to be prepared.<br><br><strong>Narendra: </strong>Yeah, I know, I know. I&#8217;d like to tell the audience that these questions have already been given. So, there&#8217;s no need for me to ask them. He will be telling the question.<br><br>And I will be adding things. If I think that there is anything if I feel a general audience needs it. If they need some clarification or if I need some clarification, I&#8217;ll butt in. But I would like Dwayne to talk.Dwayne: Yes.<br><br><strong>Narendra:</strong> Okay, then we go ahead.<br><br><strong>Dwayne: </strong>Okay, let&#8217;s get started with the first question. And this question is whether it is difficult to learn physics. And here&#8217;s what I have to say on that.<br><br>Now, of course, physics is a very fundamental subject. Some people might have the idea that this should make it easy, but I do not think that should be the case. Fundamental is not the same as easy.<br><br>The subject matter of physics is essentially all of physical reality. You can take the view that that is looking out at all of physical reality and seeing how all of this works. Basically, everything that is physical is something to do with physics.<br><br>But in practice, this is not actually easy. Once you start doing physics, you will very quickly find that you need math, lots of math, to do much of anything.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img  decoding="async" width="450" height="338"  src="https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2023/05/hard-math.jpg"  alt="Complicated math." class="wp-image-26413" srcset="https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2023/05/hard-math.jpg 450w, https://d3r1y5pfd801i1.cloudfront.net/wp-content/uploads/2023/05/hard-math-300x225.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption class="wp-element-caption">This is not where physics stops. It where it should really get going &#8230;</figcaption></figure></div>
+
+
+<p><strong>Narendra:</strong> Yes.<br><br><strong>Dwayne:</strong> You need to be able to quantify the things like velocity, and acceleration and forces and how forces lead to motion and stuff. You need mathematics to identify, quantify, understand all these relationships. We will go into the role of math in a later question, and so we won&#8217;t go into that too<br>much now.<br><br><strong>Narendra: </strong>Yeah.<br><br><strong>Dwayne:</strong> But the math can get really complicated, really fast. And not everyone is good at math. Certainly not in my experience. It is a very abstract subject, and it&#8217;s very difficult for some, even if it is taught properly. And in my experience, it seldom is.<br><br>Add to that the fact that you&#8217;re dealing with some very abstract things like energy. We don&#8217;t know what energy is really and Feynman himself said we don&#8217;t know. And he was one of the greatest physicists of his time.<br><br><strong>Narendra:</strong> He did not know; you can imagine it was undefined.</p>
+
+
+
+<p><strong>Dwayne:</strong> Yeah, that was a perfectly valid point. So, in other words, energy is not easy to intuitively grasp. And then there&#8217;s light. We don&#8217;t know what light really is. They say it&#8217;s a particle and a wave. But, well, no.<br><br>Even trying to visualize an atom can be hard. Remember the show the Big Bang Theory? You have that picture of the electrons orbiting the nucleus like little moons.<br><br>This is an okay way of visualizing an atom. It is good enough for high school physics, maybe first-year college physics. But according to quantum physics, this is wrong. But how do we visualize it?<br><strong><br>Narendra:</strong> Exactly.<br><br><strong>Dwayne: </strong>We don&#8217;t know, quantum physics has not given us an answer. It doesn&#8217;t give us any answers.</p>
+
+
+
+<p>So, you could say that the subject matter of physics is non-trivial to understand. It can get quite abstract. But there is another problem.<br><br>Many of the problems of modern physics make this a lot harder than it should be. You see, there is a &#8220;shut up and calculate&#8221; approach that is widely taken.<br><br><strong>Narendra: </strong>Shut and calculate.<br><br><strong>Dwayne:</strong> Yeah.<br><br><strong>Narendra: </strong>Shut up and calculate. Yeah, that is funny. Shut up and calculate.<br><br>Dwayne: Yes, exactly. That is an exact quote, although I cannot remember who said it offhand.<br><br><strong>Narendra: </strong>Oh, my.</p>
+
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/interview-on-science-education/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
